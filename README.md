@@ -1,1 +1,1 @@
-This is Daxsm86's first git project!
+This is Sean's first git project!
